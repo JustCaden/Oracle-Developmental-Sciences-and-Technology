@@ -1,5 +1,5 @@
 Assembly:
-https://www.resetera.com/threads/halo-pc-modding-tutorials-and-downloads-also-re-enable-forge.157798/
+https://github.com/XboxChaos/Assembly/
 
 H3 Zombies mod at Nexus:
 https://www.nexusmods.com/halothemasterchiefcollection/mods/1109?tab=description
