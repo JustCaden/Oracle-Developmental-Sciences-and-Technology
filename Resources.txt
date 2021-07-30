@@ -1,0 +1,11 @@
+Assembly:
+https://www.resetera.com/threads/halo-pc-modding-tutorials-and-downloads-also-re-enable-forge.157798/
+
+H3 Zombies mod at Nexus:
+https://www.nexusmods.com/halothemasterchiefcollection/mods/1109?tab=description
+
+Reclaimer Architect:
+https://github.com/Gravemind2401/Reclaimer.Architect
+
+Reclaimer:
+https://github.com/Gravemind2401/Reclaimer
